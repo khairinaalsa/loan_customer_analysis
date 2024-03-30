@@ -1,6 +1,6 @@
 # LOAN PROPERTY CUSTOMER ANALYSIS
 
-This analysis aims to analyze the behavior of customers who apply for loans from the bank for property purchases. The dataset used in this data analysis is the Loan Customer dataset (see here). This dataset depicts the behavior and profiles of customers at a bank that offers loan programs for property purchases. 
+This analysis aims to analyze the behavior of customers who apply for loans from the bank for property purchases. The dataset used in this data analysis is the Loan Customer dataset. This dataset depicts the behavior and profiles of customers at a bank that offers loan programs for property purchases. 
 
 ### Preprocessing Data
 1. Handling Missing Value
