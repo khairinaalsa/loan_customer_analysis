@@ -9,6 +9,6 @@ Preprocessing data
 4. Feature Encoding
 
 There are several insights obtained from this data analysis:
-1. oth genders, male and female, are more interested in purchasing apartment-type properties.
+1. Both genders, male and female, are more interested in purchasing apartment-type properties.
 2. Males are more dominant in borrowing to buy property.
 3. Married customers are more likely to borrow over a 30-year period.
